@@ -1,15 +1,15 @@
 ---
 layout: page
-title:  "Welcome to Pudhina"
+title:  "欢迎来到我的博客"
 subtitle: "A minimal Jekyll theme"
-date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+date:   2020-09-10 14:14:00 +0530
+categories: ["综合"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+您会在`_posts`目录中找到此帖子。继续进行编辑，然后重新构建站点以查看您的更改。您可以用许多不同的方法重建站点，但是最常见的方法是运行`jekyll serve`，它会启动Web服务器并在文件更新时自动重新生成站点。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+要添加新帖子，只需在`_posts`遵循约定的目录中添加一个文件，其中`YYYY-MM-DD-name-of-post.ext`包括必要的前置事项。查看这篇文章的来源，以了解其工作原理。
 
-Jekyll also offers powerful support for code snippets:
+`Jekyll`还为代码段提供了强大的支持：
 
 {% highlight ruby %}
 def print_hi(name)

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
+title: "帖子内容样式"
 subtitle: "This is a subtitle"
-date:   2016-05-20 21:21:21 +0530
-categories: junk
+date:  2020-09-10 17:14:00 +0530
+categories: ["其他"]
 author: "Bart Simpson"
 meta: "Springfield"
 ---
