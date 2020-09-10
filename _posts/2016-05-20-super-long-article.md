@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "总结笔记"
-subtitle: "A shorter explanation of stuff"
-date:   2020-09-10 16:14:00 +0530
+subtitle: "Summary notes"
+date:   2020-09-10 18:14:00 +0530
 categories: ["学习"]
 ---
 

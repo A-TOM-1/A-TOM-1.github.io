@@ -8,25 +8,25 @@ subtitle: 一个很棒的人
 <br>
 
 ### 技能
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+``` 熟练掌握运行各项敲代码工具、精通各种语法等  ```  
 
 ### 工程项目
 **封装model类** - PHP - 学校 <span style="float: right; ">2020.3</span>
-初学PHP语法
+<br>初学PHP语法
 
 **搭建个人网页** - HTML+CSS - 学校 <span style="float: right; ">2019.6</span>
-通过HTML+CSS搭建个人网页
+<br>通过HTML+CSS搭建个人网页
 
 **搭建会员系统后端** - PHP - 学校 <span style="float: right; ">2020.6</span>  
-运用PHP搭建会员系统后端
+<br>运用PHP搭建会员系统后端
 
 
 ### 教育
 
-私立华联学院 <span style="float: right; ">就读</span>  
+**地点** 私立华联学院 <span style="float: right; ">就读</span>  
 **课程**   
  HTML+CSS+MYSQL+PHP
-东海中学 <span style="float: right; ">2016.6-2018.9</span>  
+**地点** 东海中学 <span style="float: right; ">2016.6-2018.9</span>  
 **课程**   
 语数英生物物理化学
 ### 经验
