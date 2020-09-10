@@ -2,7 +2,7 @@
 layout: page
 title:  "欢迎来到我的博客"
 subtitle: "This is a rookie's blog"
-date:   2020-09-10 20:14:00 +0530
+date:   2020-09-08 20:14:00 +0530
 categories: ["综合"]
 ---
 您会在`_posts`目录中找到此帖子。继续进行编辑，然后重新构建站点以查看您的更改。您可以用许多不同的方法重建站点，但是最常见的方法是运行`jekyll serve`，它会启动Web服务器并在文件更新时自动重新生成站点。

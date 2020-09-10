@@ -18,14 +18,14 @@ subtitle: 一个很棒的人
 <br>通过HTML+CSS搭建个人网页
 
 **搭建会员系统后端** - PHP - 学校 <span style="float: right; ">2020.6</span>  
-<br>运用PHP搭建会员系统后端
+运用PHP搭建会员系统后端
 
 
 ### 教育
 
 **地点** 私立华联学院 <span style="float: right; ">就读</span>  
 **课程**   
- HTML+CSS+MYSQL+PHP
+ HTML+CSS+MYSQL+PHP<br>
 **地点** 东海中学 <span style="float: right; ">2016.6-2018.9</span>  
 **课程**   
 语数英生物物理化学
