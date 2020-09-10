@@ -2,7 +2,7 @@
 layout: page
 title: "帖子内容样式"
 subtitle: "This is a subtitle"
-date:  2020-09-10 17:14:00 +0530
+date:  2020-09-07 17:14:00 +0530
 categories: ["其他"]
 author: "Bart Simpson"
 meta: "Springfield"

@@ -2,7 +2,7 @@
 layout: page
 title:  "总结笔记"
 subtitle: "Summary notes"
-date:   2020-09-09 18:14:00 +0530
+date:   2020-09-08 18:14:00 +0530
 categories: ["学习"]
 ---
 
