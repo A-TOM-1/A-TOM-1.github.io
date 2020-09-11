@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hello
+title: Hello
 subtitle: Welcome to my blog
 sitemap:
   priority: 0.9
