@@ -4,7 +4,8 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: aliceblue;; }
+    background-image: url(../img/timg.png) center no-repeat;
+  background-size: 100% 100%; }
 
   a {
     color: #57A;
